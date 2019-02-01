@@ -1,5 +1,9 @@
 **How do you print things out the debug area?**
 print ("...")
+```swift
+Class Person {
+
+}
 
 **What is the shortcut to run your app?**
 press command R
