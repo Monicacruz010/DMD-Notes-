@@ -58,3 +58,4 @@ extension ViewController: CLLocationManagerDelegate {
 On info.plist you right click add row and then scroll down to find privacy location - GITHUB shows under workshops. 
 
 ADD MAP - StoryBoard! buttons if you like and so on. 
+ to load gpx YOU GO TO file then new file, search GPX and it should come up with a file. 
